@@ -1,6 +1,6 @@
 # YaPr_DataScience_Oil-Gas
 
-**Основной стек инструментов:** Python (pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Phik), Jupyter, CSV, статистический анализ, машинное обучение.
+**Основной стек инструментов: Python (pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Phik), Jupyter, CSV, статистический анализ, машинное обучение.**
 
 Проект по Машинному обучению в бизнесе
 # Выбор локации для скважины
